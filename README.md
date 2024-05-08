@@ -2,7 +2,7 @@
 
 rag_from_scratch  是油管视频的资料
 
-langgraph_   是rag_from_scratch15-18中提到的高阶RAG的代码，如果大家看了文献https://arxiv.org/abs/2312.10997v5,就会发现这些就是最前沿的RAG模型
+langgraph_   是rag_from_scratch15-18中提到的高阶RAG的代码，如果大家看了文献 https://arxiv.org/abs/2312.10997v5  就会发现这些就是最前沿的RAG模型
 
 HelloLlamaCloud 是LLAMA官方教学使用langchain构建RAG的文档
 
